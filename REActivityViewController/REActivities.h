@@ -32,5 +32,4 @@
 #import "REChromeActivity.h"
 #import "REMapsActivity.h"
 #import "RESaveToCameraRollActivity.h"
-#import "REVKActivity.h"
 #import "RESinaWeiboActivity.h"
