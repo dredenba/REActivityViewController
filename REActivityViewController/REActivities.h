@@ -34,7 +34,6 @@
 #import "RESaveToCameraRollActivity.h"
 #import "REVKActivity.h"
 #import "REInstapaperActivity.h"
-#import "REPocketActivity.h"
 #import "REReadabilityActivity.h"
 #import "REKipptActivity.h"
 #import "RESinaWeiboActivity.h"
