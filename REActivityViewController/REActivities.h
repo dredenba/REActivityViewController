@@ -23,7 +23,6 @@
 // THE SOFTWARE.
 //
 
-#import "REFacebookActivity.h"
 #import "RETwitterActivity.h"
 #import "REMessageActivity.h"
 #import "REMailActivity.h"
