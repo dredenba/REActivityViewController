@@ -33,5 +33,4 @@
 #import "REMapsActivity.h"
 #import "RESaveToCameraRollActivity.h"
 #import "REVKActivity.h"
-#import "REReadabilityActivity.h"
 #import "RESinaWeiboActivity.h"
